@@ -7,6 +7,6 @@ class RustBench < Formula
   sha256 "19f11deaaf2fe61935b15ef74f00415ea32c98bee8698c1eaa7bf1f0220a50e5"
 
   def install
-    bin.install "rust-bench"
+    bin.install "rb"
   end
 end
